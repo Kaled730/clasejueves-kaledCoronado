@@ -1,0 +1,28 @@
+*{
+    margin: 5px;
+    padding: 10px;
+    border: 0px;
+}
+body{
+    background-color: yellow;
+    padding: 2px;
+}
+header{
+    background-color: chartreuse;
+    width: auto;
+    height: 50px;
+}
+nav{
+    background-color: chocolate;
+}
+section{
+    background-color: aqua;
+    width: auto;
+    height: 100px;
+}
+aside{
+    background-color: blue;
+}
+footer{
+    background-color: cadetblue;
+}
